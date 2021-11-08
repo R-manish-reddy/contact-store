@@ -7,13 +7,6 @@
 
 
 
-# Tech requirements
-
-*Node Js
-
-*Browser
-
-
 
 ## To Run this App
 
